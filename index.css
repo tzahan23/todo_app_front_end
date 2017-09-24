@@ -1,0 +1,24 @@
+html{
+    font-family:cursive;
+    background-color:#f4cba4;
+}
+h1{ 
+    font-family: fantasy;
+    color: #b58cf2;
+    font-size:72;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.intro{
+    color:navy;
+    
+}
+.hw-title{
+    color: #38d154
+    
+}
+#image-1{margin-left:450px;
+        border-radius:50px;
+    
+}
+
